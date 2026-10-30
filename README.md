@@ -8,7 +8,6 @@
 ## 👥 Equipo y Créditos del Proyecto
 
 ### 🏆 Desarrolladores Principales
-* **Juan Pablo López** - *Desarrollador Principal & Arquitectura del Simulador*
 * **Oscar Mauricio Sandoval Márquez**
 * **Joseph Sneijder Delgado Tarazona**
 * **Kevin Andrés Correa Martinez**
