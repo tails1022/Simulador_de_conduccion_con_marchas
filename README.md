@@ -9,12 +9,10 @@
 
 ### 🏆 Desarrolladores Principales
 * **Juan Pablo López** - *Desarrollador Principal & Arquitectura del Simulador*
-* **Antigravity (AI Coding Assistant - Google DeepMind)** - *Co-Desarrollador & Asistencia Avanzada de Ingeniería*
-
-### 🏎️ Colaboradores
-* **Oscar Mauricio Sandoval Márquez**
+* * **Oscar Mauricio Sandoval Márquez**
 * **Joseph Sneijder Delgado Tarazona**
 * **Kevin Andrés Correa Martinez**
+* **Antigravity (AI Coding Assistant - Google DeepMind)** - *Co-Desarrollador & Asistencia Avanzada de Ingeniería*
 
 ### 🏫 Institución y Asesoría Docente
 * **Institución Educativa**: Colegio Carlos Vicente Rey
